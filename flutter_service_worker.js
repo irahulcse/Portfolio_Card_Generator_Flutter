@@ -5,13 +5,15 @@ const RESOURCES = {
 "/manifest.json": "da3bd04e2e372ae37e07aecd2d5751a7",
 "/icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "/icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"/assets/AssetManifest.json": "bda075a72c5ca0347c9ae77f3a2b08fb",
+"/assets/AssetManifest.json": "6b100b118d43e4d8e70e8563968064ac",
 "/assets/LICENSE": "964211db6a8b173b1744e68da77ce459",
 "/assets/assets/rahul_new.jpg": "7df8349565b7f0cf6cd8948fe925d307",
+"/assets/assets/fonts/Pacifico-Regular.ttf": "9b94499ccea3bd82b24cb210733c4b5e",
+"/assets/assets/fonts/Mukta-Bold.ttf": "c05522505c7067b1e97910b5a67a26be",
 "/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "/assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"/assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
-"/main.dart.js": "692da2a231ee3c9514a0c05e1ccb858a",
+"/assets/FontManifest.json": "48eadd748ab0e5bde7647ff824b938c9",
+"/main.dart.js": "e4ec21568005e0b6a8dc079b64073dff",
 "/index.html": "ae20b20f9192ade4c5993ec8ab28a8c3"
 };
 
