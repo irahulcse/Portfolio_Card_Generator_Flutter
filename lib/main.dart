@@ -38,56 +38,46 @@ class MyApp extends StatelessWidget {
                   fontWeight: FontWeight.bold,
                 ),
               ),
-              Container(
+              Card(
                 color: Colors.white,
                 margin: EdgeInsets.symmetric(
                   vertical: 10.0,
                   horizontal: 25.0,
                 ),
-                child: Row(
-                  children: <Widget>[
-                    Icon(
-                      Icons.phone,
+                child: ListTile(
+                  leading: Icon(
+                    Icons.phone,
+                    color: Colors.black,
+                  ),
+                  title: Text(
+                    "+91 8146582353",
+                    style: TextStyle(
+                      fontSize: 12.0,
                       color: Colors.black,
+                      fontFamily: 'Mukta-Bold',
                     ),
-                    SizedBox(
-                      width: 10.0,
-                    ),
-                    Text(
-                      "+91 8146582353",
-                      style: TextStyle(
-                        fontSize: 12.0,
-                        color: Colors.black,
-                        fontFamily: 'Mukta-Bold',
-                      ),
-                    ),
-                  ],
+                  ),
                 ),
               ),
-              Container(
+              Card(
                 color: Colors.white,
                 margin: EdgeInsets.symmetric(
                   vertical: 10.0,
                   horizontal: 25.0,
                 ),
-                child: Row(
-                  children: <Widget>[
-                    Icon(
-                      Icons.email,
+                child: ListTile(
+                  leading: Icon(
+                    Icons.email,
+                    color: Colors.black,
+                  ),
+                  title: Text(
+                    "1rahulchandra1@gmail.com",
+                    style: TextStyle(
+                      fontSize: 12.0,
                       color: Colors.black,
+                      fontFamily: 'Mukta-Bold',
                     ),
-                    SizedBox(
-                      width: 10.0,
-                    ),
-                    Text(
-                      "1rahulchandra1@gmail.com",
-                      style: TextStyle(
-                        fontSize: 12.0,
-                        color: Colors.black,
-                        fontFamily: 'Mukta-Bold',
-                      ),
-                    ),
-                  ],
+                  ),
                 ),
               ),
             ],
