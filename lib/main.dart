@@ -10,20 +10,6 @@ class MyApp extends StatelessWidget {
         backgroundColor: Colors.yellow,
         body: Column(
           children: <Widget>[
-            Row(
-              children: <Widget>[
-                Column(
-                   // mainAxisAlignment: MainAxisAlignment.end,
-                   crossAxisAlignment: CrossAxisAlignment.end,
-                  children: <Widget>[
-                    Image.asset(
-                      'assets/flutter_logo.png',
-                      fit: BoxFit.cover,
-                    ),
-                  ],
-                ),
-              ],
-            ),
             Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
@@ -101,6 +87,20 @@ class MyApp extends StatelessWidget {
                       ),
                     ),
                   ),
+                ),
+              ],
+            ),
+            Row(
+              children: <Widget>[
+                Column(
+                   // mainAxisAlignment: MainAxisAlignment.end,
+                   crossAxisAlignment: CrossAxisAlignment.end,
+                  children: <Widget>[
+                    Image.asset(
+                      'assets/flutter_logo.png',
+                      fit: BoxFit.cover,
+                    ),
+                  ],
                 ),
               ],
             ),
