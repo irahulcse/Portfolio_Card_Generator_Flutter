@@ -32,11 +32,31 @@ class MyApp extends StatelessWidget {
                 'FLUTTER DEVELOPER',
                 style: TextStyle(
                   fontSize: 20.0,
-                  color: Colors.purple[200],
+                  color: Colors.blue,
                   fontFamily: 'Mukta-Bold',
                   letterSpacing: 2.5,
                   fontWeight: FontWeight.bold,
                 ),
+              ),
+              Container(
+                Row(
+                  children: <Widget>[
+                    Icon(
+                      Icons.phone,
+                      size: 50.0,
+                    ),
+                    Text(
+                      "+91 8146582353",
+                      style: TextStyle(
+                        fontSize: 12.0,
+                        color: Colors.black,
+                      ),
+                    ),
+                  ],
+                ),
+                Row(
+                  i
+                )
               ),
             ],
           ),
