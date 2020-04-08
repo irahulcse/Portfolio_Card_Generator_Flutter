@@ -12,8 +12,9 @@ class MyApp extends StatelessWidget {
           children: <Widget>[
             Column(
               children: <Widget>[
-                Row(
-                  mainAxisAlignment: MainAxisAlignment.end,
+                Column(
+                 // mainAxisAlignment: MainAxisAlignment.end,
+                  crossAxisAlignment: CrossAxisAlignment.end,
                   children: <Widget>[
                     Image.asset(
                       'assets/flutter_logo.png',
