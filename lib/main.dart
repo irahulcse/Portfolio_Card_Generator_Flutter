@@ -11,13 +11,15 @@ class MyApp extends StatelessWidget {
         body: Column(
           children: <Widget>[
             Column(
-              mainAxisAlignment: MainAxisAlignment.end,
               children: <Widget>[
-                CircleAvatar(
-                  radius: 100.0,
-                  backgroundImage: AssetImage(
-                    'assets/flutter_logo.png',
-                  ),
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.end,
+                  children: <Widget>[
+                    Image.asset(
+                      'assets/flutter_logo.png',
+                      fit: BoxFit.cover,
+                    ),
+                  ],
                 ),
               ],
             ),
