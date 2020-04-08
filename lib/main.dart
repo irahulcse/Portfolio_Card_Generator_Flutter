@@ -10,12 +10,29 @@ class MyApp extends StatelessWidget {
         backgroundColor: Colors.teal,
         body: SafeArea(
           child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               CircleAvatar(
                 radius: 50.0,
                 backgroundColor: Colors.redAccent,
                 backgroundImage: AssetImage(
                   'assets/rahul_new.jpg',
+                ),
+              ),
+              Text(
+                'Rahul Chandra',
+                style: TextStyle(
+                  fontSize: 40.0,
+                  color: Colors.white,
+                  fontFamily: 'Pacifico-Regular',
+                ),
+              ),
+              Text(
+                'Flutter Developer',
+                style: TextStyle(
+                  fontSize: 12.0,
+                  color: Colors.white,
+                  fontFamily: 'Mukta-Bold',
                 ),
               ),
             ],
