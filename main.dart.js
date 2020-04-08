@@ -35116,7 +35116,7 @@ t.push(new U.mj("",!1,!0,r,r,r,!1,r,C.A,C.k,"",!0,!1,r,C.V))
 return!1}return!0}}
 F.u3.prototype={
 N:function(a){var t=null,s="Mukta-Bold"
-return new S.n5(new M.o0(Q.Rg(!0,new T.ri(C.a6,C.o4,C.o5,C.n8,t,C.pO,t,H.b([new K.r8(C.uE,new L.lI("assets/rahul_new.jpg"),50,t),L.I7("Rahul Chandra",A.h8(t,t,C.l,t,t,t,t,t,"Pacifico-Regular",t,t,40,t,C.b6,t,t,!0,t,t,t,t,t,t)),L.I7("FLUTTER DEVELOPER",A.h8(t,t,C.X,t,t,t,t,t,s,t,t,20,t,C.b6,t,t,!0,2.5,t,t,t,t,t)),new T.h6(150,20,new Z.rJ(C.un.h(0,100),t),t),V.PL(Q.QB(L.Qn(C.tn,C.l),L.I7("+91 8146582353",A.h8(t,t,C.l,t,t,t,t,t,s,t,t,12,t,t,t,t,!0,t,t,t,t,t,t))),C.j,new V.aH(25,10,25,10)),V.PL(Q.QB(L.Qn(C.tm,C.l),L.I7("1rahulchandra1@gmail.com",A.h8(t,t,C.l,t,t,t,t,t,s,t,t,12,t,t,t,t,!0,t,t,t,t,t,t))),C.j,new V.aH(25,10,25,10))],u.E),t),C.b5,!0),C.uF,t),t)}}
+return new S.n5(new M.o0(Q.Rg(!0,new T.ri(C.a6,C.o4,C.o5,C.n8,t,C.pO,t,H.b([new K.r8(C.uE,new L.lI("assets/rahul_new.jpg"),50,t),L.I7("Rahul Chandra",A.h8(t,t,C.j,t,t,t,t,t,"Pacifico-Regular",t,t,40,t,C.b6,t,t,!0,t,t,t,t,t,t)),L.I7("FLUTTER DEVELOPER",A.h8(t,t,C.X,t,t,t,t,t,s,t,t,20,t,C.b6,t,t,!0,2.5,t,t,t,t,t)),new T.h6(150,20,new Z.rJ(C.un.h(0,100),t),t),V.PL(Q.QB(L.Qn(C.tn,C.l),L.I7("+91 8146582353",A.h8(t,t,C.l,t,t,t,t,t,s,t,t,12,t,t,t,t,!0,t,t,t,t,t,t))),C.j,new V.aH(25,10,25,10)),V.PL(Q.QB(L.Qn(C.tm,C.l),L.I7("1rahulchandra1@gmail.com",A.h8(t,t,C.l,t,t,t,t,t,s,t,t,12,t,t,t,t,!0,t,t,t,t,t,t))),C.j,new V.aH(25,10,25,10))],u.E),t),C.b5,!0),C.uF,t),t)}}
 A.N5.prototype={
 $2:function(a,b){var t=536870911&a+J.aW(b)
 t=536870911&t+((524287&t)<<10)
