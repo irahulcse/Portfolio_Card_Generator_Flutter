@@ -5,12 +5,13 @@ const RESOURCES = {
 "/manifest.json": "da3bd04e2e372ae37e07aecd2d5751a7",
 "/icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "/icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"/assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+"/assets/AssetManifest.json": "bda075a72c5ca0347c9ae77f3a2b08fb",
 "/assets/LICENSE": "964211db6a8b173b1744e68da77ce459",
+"/assets/assets/rahul_new.jpg": "7df8349565b7f0cf6cd8948fe925d307",
 "/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "/assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "/assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
-"/main.dart.js": "36070fec9c0043333d11a9ed76a9a009",
+"/main.dart.js": "692da2a231ee3c9514a0c05e1ccb858a",
 "/index.html": "ae20b20f9192ade4c5993ec8ab28a8c3"
 };
 
