@@ -32,7 +32,7 @@ I am currently looking for Full Time/ Internship Offer for any Software Developm
 
 ### Screenshots and Working GIFS:
 
-<img src="images/1.png"/> 
+<img src="images/1.png" height="500em"  width="350em"/> 
 
 ### Testing
 
